@@ -1,4 +1,3 @@
-
 # Multiple Linear Regression with PySpark
 
 This repository demonstrates how to perform Multiple Linear Regression using PySpark. It provides example code, explanations, and workflow for building, training, and evaluating a regression model on large datasets using Apache Spark's MLlib library.
