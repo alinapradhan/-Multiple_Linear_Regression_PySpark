@@ -4,7 +4,7 @@ This repository demonstrates how to perform Multiple Linear Regression using PyS
 
 
 ## Overview
-
+ 
 Multiple Linear Regression is a statistical technique used to model the relationship between a dependent variable and two or more independent variables. PySpark's MLlib enables scalable machine learning on big data and can be used to efficiently perform regression analysis on large datasets.
 
 This project covers:
